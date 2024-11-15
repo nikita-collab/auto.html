@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color:white;
+    color: black;
+    line-height: 1.5;
+
+}
+header{
+    background-color: #455170;
+    color: white;
+    font-size: 120%;
+    height: 60px;
+text-align: end;
+}
+.left-section{
+    background-color: #61B2EC;
+    width: 40%;
+    height: 500px;
+}
+.right-section{
+    background-color:#8EC9F2;
+    width: 60%;
+    height: 500px;
+}
+footer{
+    background-color: #45517D;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+    padding: 10px 0;
+}
+a:visited{
+    color:green;
+    text-decoration:none;
+}
+a:link{
+    color:orange;
+    text-decoration: none;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td{
+    padding: 5px;
+    text-align: center;
+}
